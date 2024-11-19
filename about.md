@@ -4,4 +4,4 @@ title: About Me
 ---
 
 # About Me
-I'm a [Your Profession] with experience in [your skills].
+I'm an IT Adminsitrator with 3 years of experience.
