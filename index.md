@@ -28,3 +28,14 @@ Skilled in configuring cloud-based tools and virtual environments to enhance sca
 
 ### Custom IT Solutions:
 Whether it's setting up file-sharing servers, deploying applications, or integrating automation tools, I tailor IT solutions to align with your business goals.
+
+## My Experience
+
+Over 3 years of experience in IT administration across diverse industries, including education, corporate, and supply chain.
+Managed Windows Server environments, including Active Directory, user account controls, and group policies.
+Implemented secure and efficient email systems, enabling smooth communication for small-mid sized teams.
+Directed IT resource procurement and inventory management, ensuring the latest and most cost-effective technologies.
+Collaborated on large-scale projects, such as setting up ERP systems, AI-driven inventory management tools, and digital marketing solutions.
+
+## Why Choose Me?
+I bring a combination of technical expertise, problem-solving skills, and a passion for helping organizations achieve their IT objectives. My commitment to excellence ensures that I go above and beyond to deliver solutions that are reliable, scalable, and secure. Whether you're looking to streamline your IT operations or implement cutting-edge technology, I can help you make it happen.
