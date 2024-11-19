@@ -9,7 +9,7 @@ Thank you for visiting my portfolio! If you'd like to get in touch, feel free to
 
 ## Social Media & Communication
 
-- **Email**: [your-email@example.com](mailto:mhadihussain97@gmail.com)  
+- **Email**: [Send Email](mailto:mhadihussain97@gmail.com)  
   Feel free to send me an email, and I'll get back to you as soon as possible!
 
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-hadi-hussain-gilani-888053144/))  
