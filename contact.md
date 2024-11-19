@@ -1,7 +1,23 @@
 ---
 layout: default
-title: Contact Me
+title: Contact
 ---
 
-# Reach out
-Get in touch with me and let me help you improve your IT Infrastructure.
+# Contact Me
+
+Thank you for visiting my portfolio! If you'd like to get in touch, feel free to reach out to me via the following channels:
+
+## Social Media & Communication
+
+- **Email**: [your-email@example.com](mailto:mhadihussain97@gmail.com)  
+  Feel free to send me an email, and I'll get back to you as soon as possible!
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-hadi-hussain-gilani-888053144/))  
+  Connect with me professionally on LinkedIn.
+
+- **GitHub**: [Your GitHub Profile](https://github.com/HadiHussain1997))  
+  Visit my GitHub for a showcase of my open-source contributions and projects.
+
+---
+
+Feel free to reach out to me through any of the above platforms. Looking forward to connecting with you!
