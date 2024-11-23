@@ -3,6 +3,15 @@ layout: default
 title: Contact
 ---
 
+<nav>
+    <ul>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/about/' | relative_url }}">About Me</a></li>
+        <li><a href="{{ '/projects/' | relative_url }}">Projects</a></li>
+        <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+    </ul>
+</nav>
+
 # Contact Me
 
 Thank you for visiting my portfolio! If you'd like to get in touch, feel free to reach out to me via the following channels:
