@@ -3,13 +3,9 @@ layout: default
 title: My Projects
 ---
 
-<nav>
-    <ul>
-        <li><a href="{{ '/' | relative_url }}">Home</a></li>
-        <li><a href="{{ '/about/' | relative_url }}">About Me</a></li>
-        <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
-    </ul>
-</nav>
+- [About Me](about.md)
+- [Projects](projects.md)
+- [Contact](contact.md)
 
 # Projects  
 
