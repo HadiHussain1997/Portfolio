@@ -3,6 +3,15 @@ layout: default
 title: About Me
 ---
 
+<nav>
+    <ul>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/about/' | relative_url }}">About Me</a></li>
+        <li><a href="{{ '/projects/' | relative_url }}">Projects</a></li>
+        <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+    </ul>
+</nav>
+
 # About Me  
 
 Hello! I'm **Muhammad Hadi Hussain Gilani**, an experienced and passionate **IT Administrator** with a deep commitment to leveraging technology to drive organizational success. My expertise spans IT infrastructure management, network optimization, email and web server configuration, and custom IT solutions.
