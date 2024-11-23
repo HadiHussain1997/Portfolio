@@ -23,9 +23,6 @@ Planned, designed, and implemented an IT infrastructure for a corporate office t
 - Active Directory  
 - Networking  
 
-![Placeholder for IT Infrastructure Image](path/to/your/image1.jpg)
-
----
 
 ## Project 2: **Web Hosting and Email Server Management**
 **Description**:  
@@ -41,27 +38,21 @@ Deployed and managed websites and email servers to support business operations, 
 - hMailServer  
 - SSL/TLS Certificates  
 
-![Placeholder for Web Hosting Image](path/to/your/image2.jpg)
-
----
 
 ## Project 3: **Inventory Management with AI**
 **Description**:  
 Developed a logistics and inventory tool using AI to monitor stock levels, predict trends, and optimize restocking processes.  
 
 **My Role**:  
-- Designed and implemented an AI-powered backend for inventory forecasting using Python's Prophet.  
-- Created a real-time analytics dashboard with Flask and integrated HTML/CSS.  
+- Designed and implemented an AI-powered backend for inventory forecasting using Express.js.  
+- Created a real-time analytics dashboard with React's Electron and integrated HTML/CSS.  
 - Automated data uploads and retraining for dynamic adaptation.  
 
 **Technologies Used**:  
-- Python (Prophet)  
-- Flask  
+- Express.js  
+- Electron  
 - HTML/CSS  
 
-![Placeholder for Inventory Management Image](path/to/your/image3.jpg)
-
----
 
 ## Project 4: **Network Security and Optimization**
 **Description**:  
@@ -73,13 +64,10 @@ Enhanced network security by implementing advanced protocols and optimizing perf
 - Conducted security audits to identify and mitigate vulnerabilities.  
 
 **Technologies Used**:  
-- FortiGate Firewall  
-- VPN Configuration  
+- MS Server Firewall  
+- OPENVPN Configuration  
 - Network Monitoring Tools  
 
-![Placeholder for Network Security Image](path/to/your/image4.jpg)
-
----
 
 ## Project 5: **Roundcube Webmail Integration**
 **Description**:  
@@ -95,9 +83,6 @@ Integrated Roundcube Webmail on a Windows Server to provide a user-friendly emai
 - hMailServer  
 - SSL/TLS  
 
-![Placeholder for Roundcube Integration Image](path/to/your/image5.jpg)
-
----
 
 ## Project 6: **Visualization Work with Grafana, Prometheus, and New Relic**
 **Description**:  
@@ -111,11 +96,8 @@ Implemented advanced data visualization solutions for system performance monitor
 **Technologies Used**:  
 - Grafana  
 - Prometheus  
-- New Relic  
+- New Relic
 
-![Placeholder for Visualization Image](path/to/your/image6.jpg)
-
----
 
 ## Project 7: **VOIP Device Setup**
 **Description**:  
@@ -130,10 +112,6 @@ Deployed and configured VOIP devices to improve communication infrastructure for
 - VOIP Devices  
 - Network QoS  
 
-![Placeholder for VOIP Device Image](path/to/your/image7.jpg)
-
----
-
 ## Project 8: **cPanel and WHM Management**
 **Description**:  
 Managed cPanel and WHM environments for hosting multiple domains and ensuring secure web hosting.  
@@ -147,9 +125,6 @@ Managed cPanel and WHM environments for hosting multiple domains and ensuring se
 - cPanel  
 - WHM  
 
-![Placeholder for cPanel Image](path/to/your/image8.jpg)
-
----
 
 ## Project 9: **Virtualization and Cloud Solutions**
 **Description**:  
@@ -161,14 +136,10 @@ Implemented virtualization solutions to maximize resource utilization and enable
 - Explored cloud-based tools for dynamic scaling.  
 
 **Technologies Used**:  
-- Oracle VM VirtualBox  
+- Oracle VM VirtualBox
+- VMWare VSphere
 - Microsoft Azure (optional for cloud scaling)  
 
-![Placeholder for Virtualization Image](path/to/your/image9.jpg)
-![Placeholder for Virtualization Image](path/to/your/image9.jpg)
-![Placeholder for Virtualization Image](path/to/your/image9.jpg)
-
----
 
 ## Project 10: **File Sharing and Backup Solutions**
 **Description**:  
@@ -183,9 +154,6 @@ Created a secure file-sharing environment and implemented a reliable data backup
 - IIS (Internet Information Services)  
 - Windows Server Backup Tools  
 
-![Placeholder for File Sharing Image](path/to/your/image10.jpg)
-
----
 
 ## More Projects  
 If you'd like to learn more about the other projects I’ve worked on, feel free to [contact me](contact.md) 
