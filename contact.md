@@ -3,9 +3,6 @@ layout: default
 title: Contact
 ---
 
-- [About Me](about.md)
-- [Projects](projects.md)
-- [Contact](contact.md)
 
 # Contact Me
 
