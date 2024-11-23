@@ -3,13 +3,6 @@ layout: default
 title: About Me
 ---
 
-<nav>
-    <ul>
-        <li><a href="{{ '/' | relative_url }}">Home</a></li>
-        <li><a href="{{ '/projects/' | relative_url }}">Projects</a></li>
-        <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
-    </ul>
-</nav>
 
 # About Me  
 
