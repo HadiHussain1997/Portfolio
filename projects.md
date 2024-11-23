@@ -3,9 +3,6 @@ layout: default
 title: My Projects
 ---
 
-- [About Me](about.md)
-- [Projects](projects.md)
-- [Contact](contact.md)
 
 # Projects  
 
