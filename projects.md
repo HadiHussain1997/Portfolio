@@ -3,6 +3,15 @@ layout: default
 title: My Projects
 ---
 
+<nav>
+    <ul>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/about/' | relative_url }}">About Me</a></li>
+        <li><a href="{{ '/projects/' | relative_url }}">Projects</a></li>
+        <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+    </ul>
+</nav>
+
 # Projects  
 
 Over the past 3 years, I have successfully contributed to and led various IT projects that enhanced organizational efficiency and security. Below is a showcase of some of the key projects I’ve worked on.
