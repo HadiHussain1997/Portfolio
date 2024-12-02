@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+- [About Me](about.md)
+- [Projects](projects.md)
+- [Contact](contact.md)
+
 # Welcome to My Portfolio
 Hi there! I'm Muhammad Hadi Hussain Gilani, a dedicated and resourceful IT Administrator with extensive experience in managing and optimizing IT systems to ensure seamless operations for businesses.
 
