@@ -35,6 +35,7 @@ Technology evolves rapidly, and I find immense satisfaction in staying ahead of 
 ## Let's Connect!  
 Want to learn more about my work or discuss how I can help your business thrive?  
 [Contact Me](contact.md)
+[Projects](projects.md)
 
 ---
 
